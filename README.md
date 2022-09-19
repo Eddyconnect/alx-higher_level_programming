@@ -1,1 +1,1 @@
-# alx-higher_level_programming
+This Alx school higher programming language course and projects.
